@@ -1,3 +1,7 @@
 # Case Converter
 
-<p>dsd</p>
+<p>Case Converter é um projeto para desenvolver o conhecimento em front-end. Projetos como este, contêm tópicos principais para esta trilha, onde foi preciso aplicar os tópicos principais nas fases do projeto para verificar o conhecimento.</p>
+
+## Resultados da aprendizagem
+
+<p>Ao implementar este projeto, trabalhei com elementos HTML básicos. Criei manipuladores de eventos para eventos de clique e trabalhei com strings em JavaScript. Também realizei a prática de como gerar arquivos para download.</p>
